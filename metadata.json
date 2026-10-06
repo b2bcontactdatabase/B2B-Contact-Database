@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard B2B - Enterprise Contact Database & Lead Intelligence",
+  "description": "High-accuracy B2B contact database, direct dials, verified emails, and data-driven lead generation solutions for revenue teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
